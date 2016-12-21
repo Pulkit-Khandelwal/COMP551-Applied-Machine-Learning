@@ -40,19 +40,3 @@ http://geographiclib.sourceforge.net/html/classGeographicLib_1_1Geodesic.html
 
 - Make a logistic regression with time as another axis and then try to extrapolate.
 
-## Things I noticed
-
-- There is ~14k examples in the dataset that are missing either lattitude or longitude.
-
-## Task dispatching
-
-- temperature/ bird distribution analysis (chris)
-- usual hanging spot + periodicity (pulkit)
-- path stuff
-- presentation (everyone)
-- report (everyone)
-
-- Introduction - Pulkit
-- Problem definition and description of data - Chris
-- Methodology / results / discussion - All
-
